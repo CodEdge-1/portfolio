@@ -76,7 +76,7 @@ export const projects: Project[] = [
       "Frontend build",
       "Netlify deployment",
     ],
-    liveUrl: "https://dazzling-phoenix-286049.netlify.app/",
+    liveUrl: "https://fashion-photo-exhibition2026.netlify.app/",
     size: "secondary",
   },
   {
